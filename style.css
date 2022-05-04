@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+  color: white;
+}
+.menu {
+  float: right;
+  font-size: small;
+}
+img {
+  max-width: 60%;
+  height: auto;
+}
+body {
+  font-variant: small-caps;
+  font-family: courier;
+}
+article {
+  font-style: italic;
+}
+section {
+  padding: 5px; position: relative; bottom 20px
+  font-size: small;
+}
+.container > * {
+    display: inline-block;
+
+}
+.box {
+  width:400px;
+height:auto;
+padding:5em;
+}
+.pics {
+  padding: 50px 50px 20px 50px
+}
+h1 {
+  font-size: 50px;
+}
+.intro {
+  border: 2px solid red;
+  padding: 10px;
+}
+.intro2 {
+  border: 2px solid aqua;
+}
